@@ -1,2 +1,2 @@
 # partitioner
-kafka 自定义partititioner
+kafka 自定义partitioner
